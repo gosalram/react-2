@@ -1,0 +1,26 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App2..js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosalram/project.git"
+  },
+  "keywords": [
+    "react",
+    "new"
+  ],
+  "author": "gosal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosalram/project/issues"
+  },
+  "homepage": "https://github.com/gosalram/project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
